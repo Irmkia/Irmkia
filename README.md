@@ -1,16 +1,16 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1000&pause=10000&color=E6EDF3&center=true&vCenter=true&repeat=true&width=500&height=60&lines=Irmkia%20%2F%20Developer"
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1000&pause=10000&color=E6EDF3&center=true&vCenter=true&repeat=true&width=550&height=60&lines=Irmkia%20%2F%20Amateur%20Developer"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1000&pause=10000&color=000000&center=true&vCenter=true&repeat=true&width=500&height=60&lines=Irmkia%20%2F%20Developer"
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1000&pause=10000&color=000000&center=true&vCenter=true&repeat=true&width=550&height=60&lines=Irmkia%20%2F%20Amateur%20Developer"
       media="(prefers-color-scheme: light)"
     />
     <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1000&pause=10000&color=000000&center=true&vCenter=true&repeat=true&width=500&height=60&lines=Irmkia%20%2F%20Developer"
-      alt="Irmkia / Developer"
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1000&pause=10000&color=000000&center=true&vCenter=true&repeat=true&width=550&height=60&lines=Irmkia%20%2F%20Amateur%20Developer"
+      alt="Irmkia / Amateur Developer"
     />
   </picture>
 </p>
@@ -20,11 +20,11 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=javascript" height="80" alt="javascript logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="80" alt="html logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="80" alt="typescript logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="80" alt="css logo" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="80" alt="sqlite logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=sublime" height="80" alt="sublime logo" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=vscode" height="80" alt="vscode logo" />
 </div>
@@ -62,5 +62,13 @@
       width="550"
       alt="Мои языки"
     />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Irmkia/Irmkia/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Irmkia/Irmkia/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Irmkia/Irmkia/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
