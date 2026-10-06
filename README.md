@@ -58,9 +58,9 @@
       media="(prefers-color-scheme: light)"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irmkia&layout=compact&hide_border=true&langs_count=8&card_width=550&custom_title=Мои%20языки&bg_color=00000000&title_color=0969DA&text_color=24292F"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irmkia&layout=compact&hide_border=true&langs_count=8&card_width=550&custom_title=My%20languages&bg_color=00000000&title_color=0969DA&text_color=24292F"
       width="550"
-      alt="Мои языки"
+      alt="My languages"
     />
   </picture>
 </p>
