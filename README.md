@@ -50,11 +50,11 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Irmkia&layout=compact&hide_border=true&langs_count=8&card_width=550&custom_title=Мои%20языки&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Irmkia&layout=compact&hide_border=true&langs_count=8&card_width=550&custom_title=My%20languages&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Irmkia&layout=compact&hide_border=true&langs_count=8&card_width=550&custom_title=Мои%20языки&bg_color=00000000&title_color=0969DA&text_color=24292F"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Irmkia&layout=compact&hide_border=true&langs_count=8&card_width=550&custom_title=My%20languages&bg_color=00000000&title_color=0969DA&text_color=24292F"
       media="(prefers-color-scheme: light)"
     />
     <img
