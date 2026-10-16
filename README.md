@@ -1,11 +1,4 @@
-<h1 align="center">Irmkia</h1>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=1000&pause=10000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Программист%20Любитель%20%7C%20Python%20%2B%20JS%2FTS"
-    alt="Программист Любитель"
-  />
-</p>
+<h1 align="center">Irmkia / Программист Любитель</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="80" alt="Python" />
