@@ -48,11 +48,21 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Irmkia/Irmkia/main/assets/top-langs.svg"
-    width="550"
-    alt="Самые используемые языки"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Irmkia/Irmkia/main/assets/top-langs-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Irmkia/Irmkia/main/assets/top-langs-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Irmkia/Irmkia/main/assets/top-langs-dark.svg"
+      width="550"
+      alt="Самые используемые языки"
+    />
+  </picture>
 </p>
 
 <p align="center">
