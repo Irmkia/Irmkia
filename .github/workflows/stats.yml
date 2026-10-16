@@ -1,0 +1,42 @@
+name: Update Language Stats
+
+on:
+  schedule:
+    # Каждый день в 3:00 UTC
+    - cron: "0 3 * * *"
+  
+  # Можно запустить вручную
+  workflow_dispatch:
+  
+  # И при пуше в main
+  push:
+    branches:
+      - main
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      
+      - name: Generate stats SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_stats.py
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --quiet && git diff --staged --quiet || git commit -m "📊 Update language stats"
+          git push
