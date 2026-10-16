@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="185" viewBox="0 0 550 185">
+
+    <style>
+        .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #58A6FF; }
+        .lang  { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #C9D1D9; }
+        .pct   { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #8B949E; }
+    </style>
+    
+<rect width="550" height="185" fill="none"/>
+<text x="25" y="45" class="title">Самые используемые языки</text>
+<text x="25" y="80" class="lang">JavaScript</text>
+<text x="525" y="80" class="pct" text-anchor="end">58.93%</text>
+<rect x="25" y="88" width="235" height="8" rx="4" fill="#f1e05a"/>
+<text x="25" y="110" class="lang">Python</text>
+<text x="525" y="110" class="pct" text-anchor="end">33.70%</text>
+<rect x="25" y="118" width="134" height="8" rx="4" fill="#3572A5"/>
+<text x="25" y="140" class="lang">TypeScript</text>
+<text x="525" y="140" class="pct" text-anchor="end">7.37%</text>
+<rect x="25" y="148" width="29" height="8" rx="4" fill="#3178c6"/>
+</svg>
