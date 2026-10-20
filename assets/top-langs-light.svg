@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="550" height="185" viewBox="0 0 550 185">
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="245" viewBox="0 0 550 245">
 
     <style>
         .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #0969DA; }
@@ -6,15 +6,21 @@
         .pct   { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #57606A; }
     </style>
     
-<rect width="550" height="185" fill="none"/>
+<rect width="550" height="245" fill="none"/>
 <text x="25" y="45" class="title">Самые используемые языки</text>
-<text x="25" y="80" class="lang">JavaScript</text>
-<text x="525" y="80" class="pct" text-anchor="end">58.93%</text>
-<rect x="25" y="88" width="235" height="8" rx="4" fill="#f1e05a"/>
-<text x="25" y="110" class="lang">Python</text>
-<text x="525" y="110" class="pct" text-anchor="end">33.70%</text>
-<rect x="25" y="118" width="134" height="8" rx="4" fill="#3572A5"/>
-<text x="25" y="140" class="lang">TypeScript</text>
-<text x="525" y="140" class="pct" text-anchor="end">7.37%</text>
-<rect x="25" y="148" width="29" height="8" rx="4" fill="#3178c6"/>
+<text x="25" y="80" class="lang">Python</text>
+<text x="525" y="80" class="pct" text-anchor="end">43.79%</text>
+<rect x="25" y="88" width="175" height="8" rx="4" fill="#3572A5"/>
+<text x="25" y="110" class="lang">JavaScript</text>
+<text x="525" y="110" class="pct" text-anchor="end">39.91%</text>
+<rect x="25" y="118" width="159" height="8" rx="4" fill="#f1e05a"/>
+<text x="25" y="140" class="lang">HTML</text>
+<text x="525" y="140" class="pct" text-anchor="end">10.51%</text>
+<rect x="25" y="148" width="42" height="8" rx="4" fill="#e34c26"/>
+<text x="25" y="170" class="lang">TypeScript</text>
+<text x="525" y="170" class="pct" text-anchor="end">4.40%</text>
+<rect x="25" y="178" width="17" height="8" rx="4" fill="#3178c6"/>
+<text x="25" y="200" class="lang">CSS</text>
+<text x="525" y="200" class="pct" text-anchor="end">1.40%</text>
+<rect x="25" y="208" width="5" height="8" rx="4" fill="#563d7c"/>
 </svg>
