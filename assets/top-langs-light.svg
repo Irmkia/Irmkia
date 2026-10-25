@@ -9,10 +9,10 @@
 <rect width="550" height="245" fill="none"/>
 <text x="25" y="45" class="title">Самые используемые языки</text>
 <text x="25" y="80" class="lang">JavaScript</text>
-<text x="525" y="80" class="pct" text-anchor="end">44.22%</text>
-<rect x="25" y="88" width="176" height="8" rx="4" fill="#f1e05a"/>
+<text x="525" y="80" class="pct" text-anchor="end">44.25%</text>
+<rect x="25" y="88" width="177" height="8" rx="4" fill="#f1e05a"/>
 <text x="25" y="110" class="lang">Python</text>
-<text x="525" y="110" class="pct" text-anchor="end">40.74%</text>
+<text x="525" y="110" class="pct" text-anchor="end">40.72%</text>
 <rect x="25" y="118" width="162" height="8" rx="4" fill="#3572A5"/>
 <text x="25" y="140" class="lang">HTML</text>
 <text x="525" y="140" class="pct" text-anchor="end">9.69%</text>
