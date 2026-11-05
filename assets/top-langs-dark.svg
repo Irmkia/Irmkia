@@ -9,16 +9,16 @@
 <rect width="550" height="245" fill="none"/>
 <text x="25" y="45" class="title">Самые используемые языки</text>
 <text x="25" y="80" class="lang">JavaScript</text>
-<text x="525" y="80" class="pct" text-anchor="end">44.25%</text>
-<rect x="25" y="88" width="177" height="8" rx="4" fill="#f1e05a"/>
+<text x="525" y="80" class="pct" text-anchor="end">44.08%</text>
+<rect x="25" y="88" width="176" height="8" rx="4" fill="#f1e05a"/>
 <text x="25" y="110" class="lang">Python</text>
-<text x="525" y="110" class="pct" text-anchor="end">40.72%</text>
-<rect x="25" y="118" width="162" height="8" rx="4" fill="#3572A5"/>
+<text x="525" y="110" class="pct" text-anchor="end">40.94%</text>
+<rect x="25" y="118" width="163" height="8" rx="4" fill="#3572A5"/>
 <text x="25" y="140" class="lang">HTML</text>
-<text x="525" y="140" class="pct" text-anchor="end">9.69%</text>
+<text x="525" y="140" class="pct" text-anchor="end">9.65%</text>
 <rect x="25" y="148" width="38" height="8" rx="4" fill="#e34c26"/>
 <text x="25" y="170" class="lang">TypeScript</text>
-<text x="525" y="170" class="pct" text-anchor="end">4.05%</text>
+<text x="525" y="170" class="pct" text-anchor="end">4.04%</text>
 <rect x="25" y="178" width="16" height="8" rx="4" fill="#3178c6"/>
 <text x="25" y="200" class="lang">CSS</text>
 <text x="525" y="200" class="pct" text-anchor="end">1.29%</text>
