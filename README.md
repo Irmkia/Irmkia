@@ -16,21 +16,7 @@
 
 <!-- ТВОЯ СТАТИСТИКА (с рабочего сервера) -->
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Irmkia&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Irmkia&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Irmkia&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA"
-      width="550"
-      alt="Статистика GitHub"
-    />
-  </picture>
+  <b>Статистика GitHub временно недоступна (обновляем систему)</b>
 </p>
 
 <!-- ТВОИ ЯЗЫКИ (ты их потерял, я вернул) -->
