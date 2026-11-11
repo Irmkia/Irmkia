@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="195" viewBox="0 0 550 195">
+
+    <style>
+        .title { font: 600 18px "Segoe UI", sans-serif; fill: #0969DA; }
+        .label { font: 600 14px "Segoe UI", sans-serif; fill: #24292F; }
+        .value { font: 600 14px "Segoe UI", sans-serif; fill: #24292F; }
+        .icon  { font: 16px sans-serif; fill: #0969DA; }
+    </style>
+    
+<text x="25" y="35" class="title">Статистика GitHub пользователя Irmkia</text>
+<text x="25" y="70" class="icon">⭐</text>
+<text x="55" y="70" class="label">Всего звёзд:</text>
+<text x="525" y="70" class="value" text-anchor="end">1</text>
+<text x="25" y="100" class="icon">📦</text>
+<text x="55" y="100" class="label">Всего коммитов:</text>
+<text x="525" y="100" class="value" text-anchor="end">46</text>
+<text x="25" y="130" class="icon">🔀</text>
+<text x="55" y="130" class="label">Всего запросов изменений:</text>
+<text x="525" y="130" class="value" text-anchor="end">0</text>
+<text x="25" y="160" class="icon">🐛</text>
+<text x="55" y="160" class="label">Всего вопросов:</text>
+<text x="525" y="160" class="value" text-anchor="end">0</text>
+</svg>

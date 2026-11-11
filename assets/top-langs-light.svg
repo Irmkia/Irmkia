@@ -1,26 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="550" height="245" viewBox="0 0 550 245">
-
-    <style>
-        .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #0969DA; }
-        .lang  { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #24292F; }
-        .pct   { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #57606A; }
-    </style>
-    
-<rect width="550" height="245" fill="none"/>
+<style>.title { font: 600 18px "Segoe UI", sans-serif; fill: #0969DA; } .lang { font: 400 14px "Segoe UI", sans-serif; fill: #24292F; } .pct { font: 600 13px "Segoe UI", sans-serif; fill: #57606A; }</style>
 <text x="25" y="45" class="title">Самые используемые языки</text>
-<text x="25" y="80" class="lang">JavaScript</text>
-<text x="525" y="80" class="pct" text-anchor="end">44.05%</text>
-<rect x="25" y="88" width="176" height="8" rx="4" fill="#f1e05a"/>
-<text x="25" y="110" class="lang">Python</text>
-<text x="525" y="110" class="pct" text-anchor="end">40.98%</text>
-<rect x="25" y="118" width="163" height="8" rx="4" fill="#3572A5"/>
-<text x="25" y="140" class="lang">HTML</text>
-<text x="525" y="140" class="pct" text-anchor="end">9.64%</text>
-<rect x="25" y="148" width="38" height="8" rx="4" fill="#e34c26"/>
-<text x="25" y="170" class="lang">TypeScript</text>
-<text x="525" y="170" class="pct" text-anchor="end">4.03%</text>
-<rect x="25" y="178" width="16" height="8" rx="4" fill="#3178c6"/>
-<text x="25" y="200" class="lang">CSS</text>
-<text x="525" y="200" class="pct" text-anchor="end">1.29%</text>
-<rect x="25" y="208" width="5" height="8" rx="4" fill="#563d7c"/>
+<text x="25" y="75" class="lang">JavaScript</text>
+<text x="525" y="75" class="pct" text-anchor="end">44.05%</text>
+<rect x="25" y="83" width="176" height="8" rx="4" fill="#f1e05a"/>
+<text x="25" y="105" class="lang">Python</text>
+<text x="525" y="105" class="pct" text-anchor="end">40.98%</text>
+<rect x="25" y="113" width="163" height="8" rx="4" fill="#3572A5"/>
+<text x="25" y="135" class="lang">HTML</text>
+<text x="525" y="135" class="pct" text-anchor="end">9.64%</text>
+<rect x="25" y="143" width="38" height="8" rx="4" fill="#e34c26"/>
+<text x="25" y="165" class="lang">TypeScript</text>
+<text x="525" y="165" class="pct" text-anchor="end">4.03%</text>
+<rect x="25" y="173" width="16" height="8" rx="4" fill="#3178c6"/>
+<text x="25" y="195" class="lang">CSS</text>
+<text x="525" y="195" class="pct" text-anchor="end">1.29%</text>
+<rect x="25" y="203" width="5" height="8" rx="4" fill="#563d7c"/>
 </svg>
