@@ -14,12 +14,26 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="80" alt="VS Code" />
 </div>
 
-<!-- ТВОЯ СТАТИСТИКА (с рабочего сервера) -->
+<!-- СТАТИСТИКА -->
 <p align="center">
-  <b>Статистика GitHub временно недоступна (обновляем систему)</b>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Irmkia/Irmkia/main/assets/github-stats-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Irmkia/Irmkia/main/assets/github-stats-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Irmkia/Irmkia/main/assets/github-stats-dark.svg"
+      width="550"
+      alt="Статистика GitHub"
+    />
+  </picture>
 </p>
 
-<!-- ТВОИ ЯЗЫКИ (ты их потерял, я вернул) -->
+<!-- ЯЗЫКИ -->
 <p align="center">
   <picture>
     <source
