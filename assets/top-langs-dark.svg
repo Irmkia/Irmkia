@@ -2,18 +2,18 @@
 <style>.title { font: 600 18px "Segoe UI", sans-serif; fill: #58A6FF; } .lang { font: 400 14px "Segoe UI", sans-serif; fill: #C9D1D9; } .pct { font: 600 13px "Segoe UI", sans-serif; fill: #8B949E; }</style>
 <text x="25" y="45" class="title">Самые используемые языки</text>
 <text x="25" y="75" class="lang">JavaScript</text>
-<text x="525" y="75" class="pct" text-anchor="end">44.05%</text>
-<rect x="25" y="83" width="176" height="8" rx="4" fill="#f1e05a"/>
+<text x="525" y="75" class="pct" text-anchor="end">43.89%</text>
+<rect x="25" y="83" width="175" height="8" rx="4" fill="#f1e05a"/>
 <text x="25" y="105" class="lang">Python</text>
-<text x="525" y="105" class="pct" text-anchor="end">40.98%</text>
-<rect x="25" y="113" width="163" height="8" rx="4" fill="#3572A5"/>
+<text x="525" y="105" class="pct" text-anchor="end">41.20%</text>
+<rect x="25" y="113" width="164" height="8" rx="4" fill="#3572A5"/>
 <text x="25" y="135" class="lang">HTML</text>
-<text x="525" y="135" class="pct" text-anchor="end">9.64%</text>
+<text x="525" y="135" class="pct" text-anchor="end">9.61%</text>
 <rect x="25" y="143" width="38" height="8" rx="4" fill="#e34c26"/>
 <text x="25" y="165" class="lang">TypeScript</text>
-<text x="525" y="165" class="pct" text-anchor="end">4.03%</text>
+<text x="525" y="165" class="pct" text-anchor="end">4.02%</text>
 <rect x="25" y="173" width="16" height="8" rx="4" fill="#3178c6"/>
 <text x="25" y="195" class="lang">CSS</text>
-<text x="525" y="195" class="pct" text-anchor="end">1.29%</text>
+<text x="525" y="195" class="pct" text-anchor="end">1.28%</text>
 <rect x="25" y="203" width="5" height="8" rx="4" fill="#563d7c"/>
 </svg>
